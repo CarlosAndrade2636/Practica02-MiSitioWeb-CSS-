@@ -6,7 +6,9 @@
     border-color:#666;
     border-style: solid;
     float: left;
-
+border-radius: 18px 18px 18px 18px;
+-moz-border-radius: 18px 18px 18px 18px;
+-webkit-border-radius: 18px 18px 18px 18px;
 }
 .logo {
 	
@@ -31,8 +33,15 @@
   /*  background-repeat:no-repeat;
     background-position: 50% 50%;
 */
-    float: left;
+	border-radius: 18px 18px 18px 18px;
+-moz-border-radius: 18px 18px 18px 18px;
+-webkit-border-radius: 18px 18px 18px 18px;
 
+
+float: left;
+}
+iframe{
+    border-width: 0px;
 }
 #final{
     width: 100%;
@@ -42,6 +51,10 @@
     
     background-position: 0% 50%;
     float: left;
+	border-radius: 18px 18px 18px 18px;
+-moz-border-radius: 18px 18px 18px 18px;
+-webkit-border-radius: 18px 18px 18px 18px;
+
 }
 body{
     background-image:url("../images/fancy-cushion.png");

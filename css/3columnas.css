@@ -6,6 +6,9 @@
     border-color:#666;
     border-style: solid;
     float: left;
+	border-radius: 18px 18px 18px 18px;
+-moz-border-radius: 18px 18px 18px 18px;
+-webkit-border-radius: 18px 18px 18px 18px;
 
 }
 .logo {
@@ -26,6 +29,10 @@
     border-width:3px;
     border-color:#666;
     border-style: solid;
+	border-radius: 18px 18px 18px 18px;
+-moz-border-radius: 18px 18px 18px 18px;
+-webkit-border-radius: 18px 18px 18px 18px;
+
 
     background-image: url("../images/fondo3.jpg");
   /*  background-repeat:no-repeat;
@@ -58,7 +65,18 @@
     
     background-position: 0% 50%;
     float: left;
+	border-radius: 18px 18px 18px 18px;
+-moz-border-radius: 18px 18px 18px 18px;
+-webkit-border-radius: 18px 18px 18px 18px;
+
 }
 body{
     background-image:url("../images/fancy-cushion.png");
 }
+iframe{
+    border-width: 0px;
+}
+table {
+  width: 250px;
+  border: 1px solid #000;
+  border-collapse: collapse; }

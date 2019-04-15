@@ -8,17 +8,31 @@ font-family: Arial, Helvetica, sans-serif;
 	
 h1{
 color: #CBFF87;
-font-weight:x-large;
+font-weight:600;
 text-transform: uppercase;
 font-family: Helvetica, sans-serif;
 }
 
 h3{
 color: #994515;
-font-weight:x-large ;
+font-weight:300;
 text-transform: capitalize;
 font-family:sans-serif;
-font-weight:blod;
+font-weight:500;
+}
+h4{
+color: #CBFF87;
+font-weight:600;
+text-transform: uppercase;
+font-family: Helvetica, sans-serif;
+}
+
+h5{
+color: #994515;
+font-weight:300 ;
+text-transform: capitalize;
+font-family:sans-serif;
+font-weight:500;
 }
 
 
